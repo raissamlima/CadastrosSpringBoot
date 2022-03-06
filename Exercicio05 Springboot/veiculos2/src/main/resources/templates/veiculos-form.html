@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head th:replace="~{base :: head(Veiculos-Cadastrar)}"></head>
+<body>
+    <header th:replace="~{base ::cabecalho}"></header>
+    <main>
+    <br /><br />
+    <h1>Cadastro de Veiculos</h1><br />
+
+    <form action="/ve/salvar" method="post">
+        <input type="hidden" name="Id" id="Id" th:value="${veiculo.Id}">
+        
+        <div class="mb-3">
+        <label for="Veiculo" class="form-label">Veiculo</label> 
+        <input class="form-control" type="text" name="Veiculo" id="Veiculo" th:value="${veiculo.Veiculo}"> 
+        </div>
+
+        <div class="mb-3">
+        <label for="Marca" class="form-label">Marca:</label>     
+        <input class="form-control" type="text" name="Marca" id="Marca" th:value="${veiculo.Marca}"> 
+        </div>
+
+        <div class="mb-3">
+        <label for="Ano" class="form-label">Ano:</label>   
+        <input class="form-control" type="text" name="Ano" id="Ano" th:value="${veiculo.Ano}"> 
+        </div>
+
+        <input class="btn btn-primary" type="submit" value="Salvar">
+    </form>
+    <br />
+    <a class="btn btn-light" href="/veiculo">Voltar para a lista </a>
+    <br /><br />
+</main>
+</body>
+</html>
