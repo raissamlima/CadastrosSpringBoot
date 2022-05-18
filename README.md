@@ -1,4 +1,4 @@
-# Exercícios de Percentual de Votos | Bubble Sort | Fatorial | Múltiplos | Cadastro de Veículos
+# Percentual de Votos | Bubble Sort | Fatorial | Múltiplos | Cadastro de Veículos
 
 *Todos os exercícios abaixo foram feitos na linguagem Java, utilizando a IDE VsCode.*
 *Para rodar basta clonar o repositório e executar em sua IDE de preferência.*
