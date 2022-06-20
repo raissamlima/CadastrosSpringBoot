@@ -1,7 +1,23 @@
 # Percentual de Votos | Bubble Sort | Fatorial | Múltiplos | Cadastro de Veículos
 
-*Todos os exercícios abaixo foram feitos na linguagem Java, utilizando a IDE VsCode.*
-*Para rodar basta clonar o repositório e executar em sua IDE de preferência.*
+## Tópicos
+
+- Descrição do projeto
+- Como rodar a aplicação
+- Exercícios
+
+## Descrição do projeto
+
+Construção de várias aplicações em *Java* como objeto de estudo. (MVC - Spring Boot - Lógica de Programação e Algoritmos)
+
+## Como rodar a aplicação
+
+Clonar o repositório e importar na IDE de sua preferência. 
+(*Todos os exercícios abaixo foram feitos na linguagem Java, utilizando a IDE VsCode.*)
+
+**Desenvolvedores/Contribuintes**
+
+- Raissa Martins Lima - Desenvolvedora Back-end Java
 
 *Exercício 01:* 
 
@@ -49,12 +65,3 @@ View: Método main, cases, validações.
 Controller: CRUD - CREATE, READ, UPDATE, DELETE
 
 *Exercício 05-SpringBoot:*
-
-Tentativa de fazer o exercício 05 usando o framework springboot; 
-
-
-
-
-
-
-
