@@ -19,7 +19,7 @@ Clonar o repositório e importar na IDE de sua preferência.
 
 - Raissa Martins Lima - Desenvolvedora Back-end Java
 
-*Exercício 01:* 
+## Exercício 01: 
 
 Cálculo do percentual dos votos válidos em relação ao total de eleitores;
 Cálculo do percentual dos votos brancos em relação ao total de eleitores;
@@ -32,7 +32,7 @@ Em "exercicio01" instanciei a classe eleitores, onde pude setar os valores de ca
 
 ---------------------------------------------
 
-*Exercício 02:* 
+## Exercício 02: 
 
 Bubble Sort
 
@@ -40,7 +40,7 @@ Foi criado um ArrayList, uma variavel int totalDeLoops que seria o tamanho da li
 
 --------------------------------------------
 
-*Exercício 03:*
+## Exercício 03:
 
 Foi feito um programa para calcular o fatorial do número 5
 
@@ -48,13 +48,13 @@ Em exercicio-03 foi instaciado a classe fatorial e passado o número 5 de teste.
 
 -----------------------------------------
 
-*Exercício 04:*
+## Exercício 04:
 
 Programa para imprimir os múltiplos de 3 e 5
 
 ----------------------------------------
 
-*Exercício 05:*
+## Exercício 05:
 
 MVC - MODEL, VIEW E CONTROLLER
 
@@ -64,4 +64,3 @@ View: Método main, cases, validações.
 
 Controller: CRUD - CREATE, READ, UPDATE, DELETE
 
-*Exercício 05-SpringBoot:*
