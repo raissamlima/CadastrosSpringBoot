@@ -1,4 +1,9 @@
-# Percentual de Votos | Bubble Sort | Fatorial | Múltiplos | Cadastro de Veículos
+# 1. Percentual de Votos 
+
+# 2. Bubble Sort 
+# 3. Fatorial
+# 4. Múltiplos
+# 5. Cadastro de Veículos
 
 ## Tópicos
 
